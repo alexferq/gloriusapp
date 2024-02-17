@@ -1,0 +1,2 @@
+# gloriusapp
+aplicacion en nextjs
