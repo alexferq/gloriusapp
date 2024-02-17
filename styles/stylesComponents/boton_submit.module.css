@@ -1,0 +1,22 @@
+.btn_login{
+    width: 120px;
+    float: right;
+    margin-right: 2%;
+  }
+
+
+  .btn_registrar{
+    background: indigo;
+    margin-right: 2%;
+    color: white;
+    width: 120px;
+    float: right;
+  }
+
+  .btn_registrar:hover{
+    background: rgb(158, 65, 224);
+    margin-right: 2%;
+    color: white;
+    width: 120px;
+    float: right;
+  }

@@ -1,0 +1,11 @@
+
+
+.dashboard_div {
+    padding: 10%;
+    height: 100vh;
+}
+
+.btn_login{
+  float: right;
+  margin-right: 3%;
+}

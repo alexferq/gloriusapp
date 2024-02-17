@@ -1,0 +1,18 @@
+.login_div_main {
+  
+}
+
+.login_div {
+    margin: 20% 20% 20% 20%;
+    padding: 10%;
+    border: solid 1px black;
+}
+
+.btn_login{
+  width: 100px;
+  float: right;
+}
+
+.label_form{
+  font-weight: bold;
+}
